@@ -2,7 +2,7 @@
 """
 JSON Pretty Printer
 - Reads a JSON file given as argument
-- Writes a human-readable pretty-printed version
+- Writes a human-readable pretty-printed versi
 """
 
 import json, sys, pathlib
