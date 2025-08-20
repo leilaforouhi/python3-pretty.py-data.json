@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 JSON Pretty Printer
-- Reads a JSON file given as argument
+- Reads a JSON file given as argumenton
 - Writes a human-readable pretty-printed versi
 """
 
